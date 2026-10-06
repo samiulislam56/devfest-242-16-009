@@ -161,7 +161,18 @@ npm run preview
 ```
 
 ---
+## Git Commit
+- Commit 01 — Foundation & Tender Workspace:
+git add .
+git commit -m "feat: build tender workspace and requirements system — AI Prompt: Create a professional React 19 TypeScript tender document workspace with responsive admin layout, sidebar navigation, tender information panel, requirements loader, bilingual support, light/dark/system themes, accessibility, and reusable UI components."
 
+- Commit 02 — PDF Upload, Matching & Validation:
+git add .
+git commit -m "feat: implement PDF upload matching and validation — AI Prompt: Implement browser-based PDF upload with multi-file support, file size and type validation, page counting, duplicate detection, one-to-one document matching, expiry date validation, requirement status tracking, missing/expired document detection, and clear blocking error states."
+
+-Commit 03 — Package Generation & Submission Workflow:
+git add .
+git commit -m "feat: generate final tender document package — AI Prompt: Implement final tender package generation using pdf-lib with professional cover page, tender information, requirement-ordered PDF merging, source page preservation, page numbering, footer with tender ID and page count, submission-ready filename, download functionality, responsive review screen, and final validation before generation."
 ## 🤖 AI Coding Tools & Prompts
 
 - **Primary AI Tool:** Antigravity (Google DeepMind)
