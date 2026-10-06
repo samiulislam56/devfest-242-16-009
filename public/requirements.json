@@ -1,0 +1,67 @@
+{
+  "tender": {
+    "tender_id": "T-2026-0417",
+    "title": "Supply of IT Equipment and Networking Hardware",
+    "procuring_entity": "Directorate General of Information Technology",
+    "bidder": "Apex Tech Solutions Ltd.",
+    "submission_deadline": "2026-10-20"
+  },
+  "requirements": [
+    {
+      "id": "R01",
+      "order": 1,
+      "title_en": "Trade License",
+      "title_bn": "হালনাগাদ ট্রেড লাইসেন্স",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "R02",
+      "order": 2,
+      "title_en": "Tax Identification & Clearance Certificate",
+      "title_bn": "টিআইএন ও আয়কর সনদপত্র",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "R03",
+      "order": 3,
+      "title_en": "VAT Registration Certificate",
+      "title_bn": "মূসক/ভ্যাট নিবন্ধন সনদ",
+      "mandatory": true,
+      "has_expiry": false
+    },
+    {
+      "id": "R04",
+      "order": 4,
+      "title_en": "Bank Solvency Certificate",
+      "title_bn": "ব্যাংক স্বচ্ছলতা সনদ",
+      "mandatory": true,
+      "has_expiry": false
+    },
+    {
+      "id": "R05",
+      "order": 5,
+      "title_en": "Manufacturer Authorization Form (MAF)",
+      "title_bn": "প্রস্তুতকারকের অনুমোদন পত্র (MAF)",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "R06",
+      "order": 6,
+      "title_en": "Audited Financial Statements (Last 3 Years)",
+      "title_bn": "অডিট রিপোর্ট ও আর্থিক বিবরণী",
+      "mandatory": false,
+      "has_expiry": false
+    },
+    {
+      "id": "R07",
+      "order": 7,
+      "title_en": "ISO 9001:2015 Quality Certificate",
+      "title_bn": "আইএসও ৯০০১:২০১৫ কোয়ালিটি সনদ",
+      "mandatory": false,
+      "has_expiry": true
+    }
+  ]
+}
