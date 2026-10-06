@@ -17,6 +17,7 @@ import { ValidationPanel } from '../features/validation/ValidationPanel';
 import { PackageGenerator } from '../features/package/PackageGenerator';
 import { BonusTools } from '../features/bonus/BonusTools';
 import { ToastSystem } from '../components/ui/ToastSystem';
+import { ScrollJourneyLine } from '../components/ui/ScrollJourneyLine';
 import { getTranslation } from '../features/i18n/translations';
 
 export const App: React.FC = () => {
@@ -246,6 +247,9 @@ export const App: React.FC = () => {
         matchedCount={matchedCount}
         totalRequirements={requirements.length}
       />
+
+      {/* Dynamic Animated Scroll Journey Line */}
+      <ScrollJourneyLine lang={lang} />
 
       {/* Main Workspace with Sidebar */}
       <div className="flex-1 flex w-full">

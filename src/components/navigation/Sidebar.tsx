@@ -176,7 +176,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           isCollapsed ? 'w-16' : 'w-60'
         }`}
       >
-        <div className="sticky top-[53px] h-[calc(100vh-53px)]">
+        <div className="sticky top-[110px] h-[calc(100vh-110px)]">
           {content}
         </div>
       </aside>
