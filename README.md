@@ -23,7 +23,8 @@
 
 ## 🚀 Live Demo & Deployment
 
-- **Live URL:** [https://devfest-242-16-009.web.app](https://devfest-242-16-009.web.app) *(or your deployed contest HTTPS link)*
+- **GitHub Repository:** [https://github.com/samiulislam56/devfest-242-16-009](https://github.com/samiulislam56/devfest-242-16-009)
+- **Live URL:** [https://devfest-242-16-009.web.app](https://devfest-242-16-009.web.app)
 - **Local Dev Server:** `http://localhost:3000`
 
 ---
