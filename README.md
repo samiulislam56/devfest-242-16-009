@@ -24,7 +24,7 @@
 ## 🚀 Live Demo & Deployment
 
 - **GitHub Repository:** [https://github.com/samiulislam56/devfest-242-16-009](https://github.com/samiulislam56/devfest-242-16-009)
-- **Live URL:** [https://devfest-242-16-009.web.app](https://devfest-242-16-009.web.app)
+- **Live URL (GitHub Pages):** [https://samiulislam56.github.io/devfest-242-16-009/](https://samiulislam56.github.io/devfest-242-16-009/)
 - **Local Dev Server:** `http://localhost:3000`
 
 ---
